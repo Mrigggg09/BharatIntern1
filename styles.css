@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    background-color: #ffffff;
+}
+table{
+    table-layout: fixed ;
+    width: 100% ;
+    position: relative;
+    top: 130px;
+    height:"100";
+    BORDER:0;
+}
+th{
+    height: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+ul{
+    list-style: circle;
+    font-size: 1.4rem;
+}
+h1{
+    font-size: 2.3rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-size:2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+td{
+    font-size:1.2rem;
+}
+.toptext{
+    position: relative;
+    top: 210px;
+    right: 30px;
+}
+.first{
+    text-align: center;
+    margin:10px 70px;
+    height: 110vh;
+}
+#ProfPic{
+    width:47%;
+    float: right;
+}
+#Carmel{
+    height: 20%;
+    position:relative;
+    top: 100px;
+    right: 195px;
+}
+#KIIT{
+    height: 20%;
+    position:relative;
+    top: 100px;
+    left: 220px;
+}
+.Schooling{
+    text-align: left;
+}
+.College{
+    text-align: right;
+}
+.second{
+    margin:30px 70px;
+    height: 100vh;
+}
+.content{
+    position:relative;
+    top: 50px;
+}
+.third{
+    margin:10px 220px;
+    height: 70vh;
+}
